@@ -37,7 +37,7 @@ sleep(2)
 #credential = open('credentials.txt')
 #line = credential.readlines()
 username = "garciawork3232@gmail.com"
-password = "l8hMP9s#7P3o"
+password = "############"
 print('- Finish importing the login credentials')
 
 sleep(5)
